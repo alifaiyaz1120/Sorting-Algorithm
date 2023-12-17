@@ -1,7 +1,6 @@
 # Sorting Algorithms Project
 
-This project implements and tests modified sorting algorithms with additional features, including sorting with custom comparators and variations of the quicksort algorithm. The project is structured into multiple tasks, as outlined in the provided instructions.
-
+This project implements and tests modified sorting algorithms with additional features, including sorting with custom comparators and variations of the quicksort algorithm. The project is structured into multiple tasks, as outlined below
 ## Files
 
 - **Sort.h**: This file contains the modified sorting algorithms, including heapsort, quicksort, and mergesort. The algorithms now accept custom comparators.
