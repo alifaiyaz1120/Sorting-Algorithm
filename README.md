@@ -3,7 +3,7 @@
 This project implements and tests modified sorting algorithms with additional features, including sorting with custom comparators and variations of the quicksort algorithm. The project is structured into multiple tasks, as outlined below
 ## Files
 
-- **Sort.h**: This file contains the modified sorting algorithms, including heapsort, quicksort, and mergesort. The algorithms now accept custom comparators.
+- **Sort.h**: This file contains the modified sorting algorithms, including heapsort, quicksort, and mergesort. 
 
 - **test_sorting_algorithms.cc**: This file contains functions for testing the sorting algorithms, generating random and sorted vectors, computing durations, and a driver program for testing the algorithms with different inputs.
 
