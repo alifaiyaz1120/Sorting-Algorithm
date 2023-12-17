@@ -1,4 +1,5 @@
 # Sorting Algorithms Project
+- By: Ali Faiyaz
 
 This project implements and tests modified sorting algorithms with additional features, including sorting with custom comparators and variations of the quicksort algorithm. The project is structured into multiple tasks, as outlined below
 ## Files
