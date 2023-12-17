@@ -73,7 +73,7 @@ First
 Runtime: <X> ns
 Verified: 1
 ```
-- Replace <X> with the actual runtime values. This format provides a clear and structured output for each sorting algorithm and quicksort pivot variation, including the runtime and verification status.
+- Replace X with the actual runtime values. This format provides a clear and structured output for each sorting algorithm and quicksort pivot variation, including the runtime and verification status.
 
 ## How to Use
 
